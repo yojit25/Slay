@@ -32,7 +32,7 @@ function showThirdSlide() {
     thirdSlide.style.display = 'block';
 }
 
-// Show the third slide after a delay
+// Show the third slide after a opening of second slide
 setTimeout(function() {
     showThirdSlide();
 }, 8000);
